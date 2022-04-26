@@ -12,3 +12,7 @@
 ## Bootcamps:
 
 - [Bootcamp Carrefour Web Developer](https://hermes.digitalinnovation.one/certificates/02EDADCB.pdf)
+
+## Desafios:
+
+- [Desafio Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://hermes.digitalinnovation.one/certificates/14E1FA1B.pdf)
